@@ -65,10 +65,24 @@ function normalize(item) {
   };
 }
 
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
 async function fetchNotices(key) {
   // 전체가 1,400건대라 넉넉히 요청한다. 응답의 totCnt로 다 받았는지 확인한다.
   const url = `${API}?crtfcKey=${encodeURIComponent(key)}&dataType=json&searchCnt=3000`;
-  const res = await fetch(url);
+
+  // 기업마당이 느려서 기본 10초 연결 제한에 걸리는 날이 있다. 넉넉히 주고 세 번까지 다시 시도한다.
+  let res;
+  for (let attempt = 1; ; attempt += 1) {
+    try {
+      res = await fetch(url, { signal: AbortSignal.timeout(60_000) });
+      break;
+    } catch (err) {
+      if (attempt === 3) throw err;
+      console.warn(`기업마당 연결 실패 (${attempt}/3) — 20초 후 다시 시도합니다.`);
+      await sleep(20_000);
+    }
+  }
   if (!res.ok) throw new Error(`기업마당 API 응답 ${res.status}`);
 
   const body = await res.json();
