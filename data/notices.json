@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13",
+  "updatedAt": "2026-10-14",
   "regions": [
     {
       "code": "chungbuk",
@@ -14816,6 +14816,24 @@
       "firstSeen": "2026-10-13"
     },
     {
+      "id": "PBLN_000000000127133",
+      "title": "[강원] 속초시 2026년 3차 전시박람회 참가 지원사업 참가기업 추가 모집 공고",
+      "summary": "속초시 관내 중소기업의 제품 홍보 및 판로 확대를 위하여 추진하는 「2026년 속초시 전시박람회 참가 지원사업」의 참가기업을 아래와 같이 모집하오니 많은 신청 바랍니다. ☞ 속초시 소재 중소 제조기업 - 전시품목 : 식품, 생활용품 등 소비재 전반 ☞ 메가쇼(시즌2) 부스임차료 및 장치비 지원",
+      "target": "중소기업",
+      "applyMethod": "이메일 접수 (dnwls0801@gwep.or.kr)",
+      "contact": "강원특별자치도경제진흥원 전략사업부 지역혁신팀 033-749-3359, dnwls0801@gwep.or.kr",
+      "applyUrl": "",
+      "org": "강원특별자치도",
+      "field": "내수",
+      "regionCode": "sokcho",
+      "regionName": "속초시",
+      "startAt": "2026-10-12",
+      "endAt": "2026-10-16",
+      "deadlineNote": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127133",
+      "firstSeen": "2026-10-14"
+    },
+    {
       "id": "PBLN_000000000125666",
       "title": "2026년 대한민국 물산업 혁신 창업대전 (Startup Water 2026) 참가자(팀) 모집 공고",
       "summary": "물산업 혁신 및 창업에 대한 국민적 관심을 확산하고 혁신 아이디어 및 유망한 창업기업 발굴을 통해 물산업 혁신 생태계를 조성하기 위해「2026년 대한민국 물산업 혁신 창업대전(STARTUP WATER 2026)」을 개최하오니 관심 있는 여러분들의 많은 참여 바랍니다. ☞ (아이디어 부문) 공고일 기준, 만 19세 이상 예비 창업자 등 / (사업화 부문) 공고일 기준, 업력 7년 이내 창업기업의 대표자 - 공모 분야 : 물안전, 물환경, 물이용 ※ 자세한 지원대상 공고문 참조 ☞ 아이디어 부문 총 상금 17백만원, 사업화 부문 총 상금 85백만원 지원 - 입상팀 인센티브(공통) : 한국수자원공사의 협력스타트업 신청 시, 서류전형 면제",
@@ -15156,6 +15174,24 @@
       "deadlineNote": "",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127080",
       "firstSeen": "2026-10-10"
+    },
+    {
+      "id": "PBLN_000000000127146",
+      "title": "2026년 미국 동부 K-Food 유통망 입점지원 사업 참여기업 모집 공고",
+      "summary": "우리 K-Food 기업의 미국 오프라인 유통망 입점을 통해 현지 시장 경쟁력을 검증하고 본격적인 미국 시장 진출을 지원하는 사업입니다. 많은 관심과 참여 바랍니다. ☞ 아래 3가지 요건을 충족하는 식품기업 ① 미국 수출 필수 인증 완료 (인증 미보유 기업 지원불가) ② 수출 희망 품목 재고 보유 (제품 유통기한 최소 1년 이상) ③ KOTRA 홈페이지(www.kotra.or.kr) 기업회원 ☞ 현지 한국 유기농 식품 전문 오프라인 유통망 입점 지원 - 크리스마스 등 연말 연휴와 연계한 기획전 및 프로모션 운영 - 수출 준비, 제품 등록, 현지 판매 운영 등 1:1 밀착 컨설팅 제공 - 현지 통관, 물류 및 물품 보관을 위한 창고 이용 비용 지원 - 제품 판매 현황 및 소비자 반응 정보 제공 - 타 유통망 및 대형 리테일 채널 입점 연계 지원(판매 성과 우수기업 대상)",
+      "target": "중소기업",
+      "applyMethod": "온라인 접수(무역투자24)",
+      "contact": "대한무역투자진흥공사 뉴욕무역관  bryancho@kotra.or.kr",
+      "applyUrl": "https://kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0QK&cpbizYn=N",
+      "org": "산업통상부",
+      "field": "수출",
+      "regionCode": "nationwide",
+      "regionName": "전국",
+      "startAt": "2026-10-08",
+      "endAt": "2026-10-20",
+      "deadlineNote": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127146",
+      "firstSeen": "2026-10-14"
     },
     {
       "id": "PBLN_000000000126756",
@@ -16292,6 +16328,42 @@
       "firstSeen": "2026-10-13"
     },
     {
+      "id": "PBLN_000000000127148",
+      "title": "2026년 중동 AIㆍICT 온라인 상담회 참여기업 모집 공고",
+      "summary": "KOTRA는 AIㆍICT, 스마트인프라 국내기업의 중동시장 바이어 발굴 및 수출 기회 확대를 위해 「2026 중동 AIㆍICT 온라인 상담회」를 개최합니다. 온라인 상담을 통해 중동 수출 기회를 발굴하고, 현지 사업 추진과정에서 발생한 애로 해소를 지원할 수 있도록 마련한 이번 상담회에 관련 기업의 많은 관심과 참여 바랍니다. ☞ AIㆍICT분야 국내기업 ☞ 중동 AIㆍICT 온라인 상담회 지원",
+      "target": "중소기업",
+      "applyMethod": "온라인 접수(무역투자24)",
+      "contact": "대한무역투자진흥공사 AI융복합팀 02-3460-7474, aiax@kotra.or.kr",
+      "applyUrl": "https://kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0QG&cpbizYn=N",
+      "org": "산업통상부",
+      "field": "수출",
+      "regionCode": "nationwide",
+      "regionName": "전국",
+      "startAt": "2026-10-08",
+      "endAt": "2026-10-30",
+      "deadlineNote": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127148",
+      "firstSeen": "2026-10-14"
+    },
+    {
+      "id": "PBLN_000000000127147",
+      "title": "2027년 일본 도쿄 오토모티브월드 전시회 (Automotive World Japan 2027) 한국관 참가기업 모집 공고",
+      "summary": "KOTRA와 (재)아인글로벌은 2027년 2월 17일 ~ 2월 19일 (3일간) 일본 도쿄에서 개최되는 ‘2027 일본 도쿄 오토모티브월드 전시회(Automotive World Japan 2027)’의 한국관 참가기업을 아래와 같이 모집하오니 관심 기업들의 많은 신청 바랍니다. ☞ 2027 일본 도쿄 오토모티브월드(Automotive World Japan 2027) 한국관에 참가를 원하는 기업 - 전시품목 : 자동차부품(전장ㆍ파워트레인ㆍ외장ㆍ자동차조명ㆍ고무부품, 인테리어제품), EV, FCV부품, 액세서리, 유지보수제품, 전장부품 기기, 솔루션 등 ☞ 부스임차료와 장치비의 70%이내 국고지원, 운송비 1CBM 편도 100%, 행정, 마케팅 및 홍보, 전시회 현장 지원",
+      "target": "중소기업",
+      "applyMethod": "아래 3가지 신청을 모두 완료해야 최종 신청 완료\r\n① 온라인 신청(KOTRA 무역투자24 또는 글로벌 전시포털(GEP))\r\n② 신청서류 이메일 제출(kjsb2@ainglobal.org)\r\n③ 참가 신청금 납부(신청 마감일 전까지 입금 요망)",
+      "contact": "(재)아인글로벌 031-384-4089, kjsb2@ainglobal.org  KOTRA 해외전시팀 02-3460-3330, kth@kotra.or.kr 및 문의처 공고문 참조",
+      "applyUrl": "",
+      "org": "산업통상부",
+      "field": "수출",
+      "regionCode": "nationwide",
+      "regionName": "전국",
+      "startAt": "2026-10-07",
+      "endAt": "2026-10-30",
+      "deadlineNote": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127147",
+      "firstSeen": "2026-10-14"
+    },
+    {
       "id": "PBLN_000000000124120",
       "title": "2026년 산업부 혁신제품 지정 컨설팅 지원사업 참여기업 공고",
       "summary": "우리 기관은 중소기업이 개발한 우수한 연구개발 제품의 공공시장 진입을 지원하기 위하여 산업부 혁신제품 신청에 어려움을 겪는 중소기업에게 전문기관 컨설팅을 지원하고자 하오니 관심있는 기업은 많은 신청 바랍니다. ☞ 산업부 혁신제품 신청이 가능한 중소기업 연구개발 제품 ※ 산업부 혁신제품 이외에 조달청, 과기부 등 타부처 혁신제품 인증 지원도 가능 ※ 자세한 지원대상 공고문 참조 ☞ 정부 혁신제품 지정 신청을 위한 컨설팅 지원(50만원/건, 기업당 최대 2회) - 중소기업기술마켓 미인증 제품의 경우 기술마켓 등록, 기업당 1회 이상 방문하여 1:1 맞춤형 컨설팅 수행 지원",
@@ -16454,6 +16526,24 @@
       "firstSeen": "2026-10-13"
     },
     {
+      "id": "PBLN_000000000127149",
+      "title": "2026년 오만 무스카트 뷰티 엘리먼트 (Beauty Elements Exhibition 2026) 전시회 연계 수출상담회 참가기업 모집 공고",
+      "summary": "대한무역투자진흥공사에서는 한국 화장품 기업을 대상으로 「오만 무스카트 뷰티 엘리먼트 전시회 연계 수출상담회」을 아래와 같이 모집하오니 관심 기업들의 많은 신청 바랍니다. ☞ 한국 화장품 기업 ☞ 바이코리아 Trade Show(온라인 전시관) 내 제품 홍보, 상시 온라인 상담 및 전시회 참관 바이어 대리 상담, 전시회장 내 샘플 및 카탈로그 부스 지원",
+      "target": "중소기업",
+      "applyMethod": "온라인 접수 (무역투자24)",
+      "contact": "KOTRA 무스카트무역관 muscat_event@kotra.or.kr",
+      "applyUrl": "https://kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26CN0QM&cpbizYn=N",
+      "org": "산업통상부",
+      "field": "수출",
+      "regionCode": "nationwide",
+      "regionName": "전국",
+      "startAt": "2026-10-12",
+      "endAt": "2026-10-31",
+      "deadlineNote": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127149",
+      "firstSeen": "2026-10-14"
+    },
+    {
       "id": "PBLN_000000000127000",
       "title": "2027년 민ㆍ군규격표준화사업 신규 연구개발과제 공고",
       "summary": "‘27년도 민ㆍ군규격표준화사업의 신규 연구개발과제 발굴을 위한 수요조사를 다음과 같이 실시하오니, 관심 있는 산ㆍ학ㆍ연ㆍ공공기관 및 군 관련기관의 많은 참여를 바랍니다. ☞ 산ㆍ학ㆍ연ㆍ공공기관 및 군 관련기관 ※ 자세한 지원대상 공고문 참조 ☞ 군사부문과 비군사부문의 공통 규격 통일 및 표준 개발 지원 ※ 자세한 지원내용 공고문 참조",
@@ -16614,6 +16704,24 @@
       "deadlineNote": "",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126942",
       "firstSeen": "2026-10-02"
+    },
+    {
+      "id": "PBLN_000000000127152",
+      "title": "2026년 5차 자동차 대체부품 장비사용기업 모집 공고",
+      "summary": "자동차융합기술원(이하 “기술원”)에서는 자동차 대체부품(품질인증부품) 산업분야의 기술개발 능력과 성장잠재력이 우수한 기업을 대상으로 장비사용기업을 모집하오니 많은 신청 바랍니다. ☞ 기술원 장비사용 및 입주할 수 있는 기업은 다음 각 호와 같다. 1)자동차 대체부품(품질인증부품)분야에 활용하고자 하는 중소기업 및 신규창업 예정자 2)자동차 대체부품(품질인증부품)분야 활용 관련 컨설팅 및 인프라 기업 3)기타 기술원의 목적달성과 활성화를 위하여 원장이 필요하다고 인정하는 기업(기관, 단체포함) - ② 제①항 제1호 내지 제2호에 해당하는 기업은 법인/개인사업자로 하며, 신규창업 예정자의 경우에는 입주 후 6개월 이내에 사업자등록을 하여야 한다. ☞ 기술원 보유 인프라 공동활용, 마케팅, 교육훈련, 기술지원 등의 기업지원사업, 입주기업 홍보, 컨설팅 서비스, 교육훈련 등 사업화에 필요한 사항, 부대시설 무료이용(화상회의실, 교육장 등) 지원",
+      "target": "중소기업",
+      "applyMethod": "방문 접수\r\n- 접수처 : (54158) 전북특별자치도 군산시 동장산2길6 (재)자동차융합기술원 경영지원팀",
+      "contact": "자동차융합기술원 뿌리기술연구팀 063-472-2378, (팩스) 063-730-7099 / 경영지원팀 063-472-2329, (팩스) 063-472-2399",
+      "applyUrl": "",
+      "org": "전북특별자치도",
+      "field": "기술",
+      "regionCode": "nationwide",
+      "regionName": "전국",
+      "startAt": "2026-10-12",
+      "endAt": "2026-11-06",
+      "deadlineNote": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127152",
+      "firstSeen": "2026-10-14"
     },
     {
       "id": "PBLN_000000000126687",
@@ -17370,6 +17478,24 @@
       "deadlineNote": "",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126633",
       "firstSeen": "2026-09-20"
+    },
+    {
+      "id": "PBLN_000000000127141",
+      "title": "2026년 친환경 쇄빙ㆍ내빙선 신조 지원사업 시행 변경 공고",
+      "summary": "2026년 친환경 쇄빙ㆍ내빙선 신조 지원사업의 의무사항, 보조율 상한 등을 변경하여 다음과 같이 공고합니다. ☞ 국가인증기관(KOMSA)의 친환경 인증등급 및 선박검사 대행기관(KR)의 내빙등급을 부여받은 친환경 쇄빙ㆍ내빙선을 당해연도 신조하는 「해운법」상 외항화물운송사업자 ☞ 북극항로 개척 및 활성화 효과 등 실수요를 고려하여 ’26년 예산(110억원)의 범위 내에서 지원(1척 이상)",
+      "target": "중소기업",
+      "applyMethod": "방문 또는 우편 접수\r\n- 접수처 : (48120) 부산광역시 해운대구 마린시티2로 38, C1동 7층(우동, 해운대아이파크) 한국해양진흥공사 북극항로팀",
+      "contact": "한국해양진흥공사 북극항로종합지원센터 북극항로팀 051-795-1674 / 해양수산부 북극항로추진본부 북극항로정책과 051-773-6325",
+      "applyUrl": "",
+      "org": "해양수산부",
+      "field": "기술",
+      "regionCode": "nationwide",
+      "regionName": "전국",
+      "startAt": "2026-10-12",
+      "endAt": "2026-12-09",
+      "deadlineNote": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127141",
+      "firstSeen": "2026-10-14"
     },
     {
       "id": "PBLN_000000000122516",
