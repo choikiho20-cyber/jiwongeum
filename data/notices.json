@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-06",
   "regions": [
     {
       "code": "chungbuk",
@@ -19064,6 +19064,24 @@
       "firstSeen": "2026-11-05"
     },
     {
+      "id": "PBLN_000000000127720",
+      "title": "2026년 4차 원전기업 인증 신청기업 모집 공고",
+      "summary": "경영진의 안전의식을 바탕으로 높은 사업 역량을 갖춘 원전기업을 인증함으로써 국내 원전 기술경쟁력 강화 및 원전 안전성 제고를 도모하고자「원전기업 인증제도」를 다음과 같이 시행하고자 하오니 인증받고자 하는 기업은 신청하여 주시기 바랍니다. ☞ 한수원 유자격 공급자 등록 중소ㆍ중견기업 및 기타 중소ㆍ중견기업 중 원전사업 참여 중 또는 참여 희망 기업 ☞ 원전기업 인증 지원 ※ 자세한 지원내용 공고문 참조",
+      "target": "중소기업",
+      "applyMethod": "방문 또는 우편 및 이메일 접수\r\n- 접수처 : (04505) 서울특별시 중구 서소문로 38, 9층 한국원자력산업협회, 원전기업 인증사무국\r\n- 이메일 : edu@kaif.or.kr\r\n※ PDF 파일 이메일 제출과 인쇄본 제출(우편ㆍ방문 등) 두 가지 방법으로 전부 완료되어야 함",
+      "contact": "한국원자력산업협회 원전기업 인증 사무국 02-6953-2523, edu@kaif.or.kr",
+      "applyUrl": "",
+      "org": "산업통상부",
+      "field": "기타",
+      "regionCode": "nationwide",
+      "regionName": "전국",
+      "startAt": "2026-10-26",
+      "endAt": "2026-11-13",
+      "deadlineNote": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127720",
+      "firstSeen": "2026-11-06"
+    },
+    {
       "id": "PBLN_000000000123900",
       "title": "2026년 2차 고양시 영상기업 활용 인센티브 사업 공고",
       "summary": "고양시와 고양산업진흥원은 국내 영상콘텐츠 제작사와 고양시 영상 기업의 협업을 촉진하기 위해 고양시 영상 기업 활용에 대한 인센티브 사업을 아래와 같이 시행합니다. 관련기업의 많은 신청 바랍니다. ☞ 국내 영상 콘텐츠 제작사, 고양 영상제작 협력기업 - 분야 : 국내 개봉 영화, 국내 방영 TV프로그램, OTT 상영 작품 ☞ 영상 콘텐츠 제작사와 고양 영상제작 협력기업 간 거래액의 일부 환급 지원",
@@ -19334,6 +19352,60 @@
       "firstSeen": "2026-10-23"
     },
     {
+      "id": "PBLN_000000000127713",
+      "title": "2026년 K-BUSINESS DAY(글로벌 해외바이어 초청 수출상담회) 참여기업 모집 공고",
+      "summary": "글로벌에프엠에서는 'K-BUSINESS DAY 2026 (글로벌 해외바이어 초청 수출상담회)'를 개최합니다. 아래의 안내문 및 첨부서류(참여기업 매칭 신청서)를 반드시 첨부해서 기한 내 신청 부탁드립니다. ☞ 국내 수출중소기업 - 지원품목 : 유망 소비재(뷰티, 패션, 라이프, 푸드) ☞ 바이어 사전 매칭, 통역 및 샘플 발송 지원 등(참가비 무료) ① 해외바이어-참여기업 간 1:1 매칭 및 오프라인 대면 상담, 통역 지원 ② 제품 쇼케이스 전시 및 中企 수출 유관기관 현장 컨설팅 상담부스 운영 ③ 인플루언서 현장 인터뷰 및 매칭 바이어 대상 샘플발송비 지원(100만원 한도)",
+      "target": "중소기업",
+      "applyMethod": "온라인 접수(중소기업 해외전시포탈)",
+      "contact": "(사업 신청 등 상세 문의) (주)글로벌에프엠 02-2042-3030, sophie@globalfairs.co.kr  (해외전시포털 관련 문의) 02-2124-3297, intlteam@kbiz.or.kr",
+      "applyUrl": "https://www.smes.go.kr/sme-expo/site/main/business/user/conso/list.do?popId=layerPopup2&contentsId=body_contents2&mngmNo=2026-3750-01310&fromBoard=true#none",
+      "org": "중소벤처기업부",
+      "field": "수출",
+      "regionCode": "nationwide",
+      "regionName": "전국",
+      "startAt": "2026-11-04",
+      "endAt": "2026-11-17",
+      "deadlineNote": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127713",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "PBLN_000000000127709",
+      "title": "2027년 독일 하노버 산업전시회 (Hannover Messe) 한국관(로봇분야) 참가기업 모집 공고",
+      "summary": "KOTRA와 한국베어링산업협회는 2027년 4월 5일 ~ 4월 8일 (4일간) 독일 하노버에서 개최되는 ‘2027 독일 하노버 산업전시회(Hannover Messe)’의 한국관(로봇분야) 참가기업을 아래와 같이 모집하오니 관심 기업들의 많은 신청 바랍니다. ☞ 2027 독일 하노버 산업전시회(Hannover Messe)에 참가를 원하는 기업 - 스마트 제조 및 자동화 (SMART MANUFACTURING &amp; AUTOMATION) - 산업 공학 및 공급 (INDUSTRIAL ENGINEERING &amp; SUPPLY) - 공기 압축 및 진공 기술 (COMPRESSED AIR &amp; VACUUM TECHNOLOGY) - 구동 및 동력 기술 (MOTION &amp; DRIVES) - 디지털 솔루션 (DIGITAL SOLUTIONS) - 산업 에너지 (INDUSTRIAL ENERGY) - 연구 및 혁신 (RESEARCH &amp; INNOVATION ☞ 부스임차료와 장치비의 70% 이내 국고지원 예정, 한국관 디렉토리 제작비, 운송비 1CBM 편도 100%, 행정ㆍ마케팅ㆍ홍보 지원, 전시회 현장 지원",
+      "target": "중소기업",
+      "applyMethod": "아래 3가지 절차를 모두 완료해야 최종 신청 완료로 간주\r\n① 온라인 신청(무역투자24(www.kotra.or.kr) 또는 글로벌전시플랫폼(www.gep.or.kr))\r\n② 신청서류 이메일 제출(한국베어링산업협회 koreabearing@daum.net, KOTRA 해외전시팀 heejinhwang@kotra.or.kr)\r\n③ buyKOREA 상품정보 등록/갱신\r\n④ 한국베어링산업협회로 신청 기간 내 참가 신청금 납부",
+      "contact": "(전시회 관련 문의) 한국베어링산업협회 02-784-1705, koreabearing@daum.net / KOTRA 해외전시팀 02-3460-7292, heejinhwang@kotra.or.kr (신청 오류 문의) KOTRA 해외전시팀 02-3460-7292, heejinhwang@kotra.or.kr (KOTRA 무역투자 24사이트 회원가입ㆍ로그인 오류 문의) KOTRA 고객전략팀 1600-7119  (buyKorea 관련 문의) 1661-7601",
+      "applyUrl": "https://kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26EX042&cpbizYn=N",
+      "org": "산업통상부",
+      "field": "수출",
+      "regionCode": "nationwide",
+      "regionName": "전국",
+      "startAt": "2026-11-04",
+      "endAt": "2026-11-17",
+      "deadlineNote": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127709",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "PBLN_000000000127707",
+      "title": "2027년 독일 하노버 산업전시회 (Hannover Messe) 한국관(기계분야) 참가기업 모집 공고",
+      "summary": "KOTRA와 한국산업지능화협회는 2027년 4월 5일 ~ 4월 8일 (4일간) 독일 하노버에서 개최되는 ‘2027 독일 하노버 산업전시회(Hannover Messe)’의 한국관(기계분야) 참가기업을 아래와 같이 모집하오니 관심 기업들의 많은 신청 바랍니다 ☞ 2027 독일 하노버 산업전시회(Hannover Messe)에 참가를 원하는 기업 - 제조AIㆍ산업AI : 제조 특화 AI, 산업용 AI Agent, 공정 최적화, AI 품질검사, 예지보전, 디지털 트윈 등 - 자율제조ㆍ스마트팩토리 : 자율제조 시스템, MESㆍMOM, 지능형 생산관리, 스마트팩토리 통합 솔루션 등 - 산업데이터ㆍAI 인프라 : 산업 데이터 스페이스, 제조 데이터 플랫폼, IIoT, Edge AI, OTㆍIT 통합 등 - 지능형 자동화ㆍ제어 : 산업용 센서ㆍ계측, 머신비전, PLC, 모션제어, 임베디드 시스템 등 - 첨단 제조장비ㆍ핵심부품 : AI 융합 제조장비, 스마트 가공ㆍ검사 장비, 정밀기계ㆍ구동부품, 자동화 핵심 모듈 ☞ 부스임차료와 장치비의 70% 이내 국고지원 예정, 한국관 디렉토리 제작비, 운송비 1CBM 편도 100%, 행정ㆍ마케팅ㆍ홍보 지원, 전시회 현장 지원",
+      "target": "중소기업",
+      "applyMethod": "아래 3가지 절차를 모두 완료해야 최종 신청 완료로 간주\r\n① 온라인 신청(무역투자24(www.kotra.or.kr) 또는 글로벌전시플랫폼(www.gep.or.kr))\r\n② 신청서류 이메일 제출(한국산업지능화협회 sjjeon@koiia.or.kr, KOTRA 해외전시팀 heejinhwang@kotra.or.kr)\r\n③ buyKOREA 상품정보 등록/갱신\r\n④ 한국산업지능화협회로 신청 기간 내 참가 신청금 납부",
+      "contact": "(전시회 관련 문의) 한국산업지능화협회 070-4703-4043, sjjeon@koiia.or.kr / KOTRA 해외전시팀 02-3460-7292, heejinhwang@kotra.or.kr (신청 오류 문의) KOTRA 해외전시팀 02-3460-7292, heejinhwang@kotra.or.kr (KOTRA 무역투자 24사이트 회원가입ㆍ로그인 오류 문의) KOTRA 고객전략팀 1600-7119  (buyKorea 관련 문의) 1661-7601",
+      "applyUrl": "https://kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26EX041&cpbizYn=N",
+      "org": "산업통상부",
+      "field": "수출",
+      "regionCode": "nationwide",
+      "regionName": "전국",
+      "startAt": "2026-11-04",
+      "endAt": "2026-11-17",
+      "deadlineNote": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127707",
+      "firstSeen": "2026-11-06"
+    },
+    {
       "id": "PBLN_000000000127372",
       "title": "2026년 호남권 AX랩 지능형농업 데이터 활용 경진대회 공고(AI융합 지능형 농업 생태계 구축 사업)",
       "summary": "AI융합 지능형 농업 생태계 구축사업의 일환으로 호남권 AX랩(전북, 전남, 광주)을 활성화하기 위해 「2026년 호남권 AX랩 지능형농업 데이터 활용 경진대회」를 아래와 같이 개최하오니 많은 관심과 참여를 바랍니다. ☞ AI융합서비스 플랫폼 실증 데이터를 활용한 아이디어 발굴 및 활용 서비스 모델 발굴에 관심 있는 기업 등 ☞ AX랩 지능형농업 데이터 활용 경진대회 시상 및 상금 지원(총 상금 900만원)",
@@ -19352,6 +19424,24 @@
       "firstSeen": "2026-10-21"
     },
     {
+      "id": "PBLN_000000000127721",
+      "title": "[강원] AI 헬스케어 글로벌 브릿지 조성사업 아태 AI 헬스케어 글로벌 교차실증 참여 모집 공고",
+      "summary": "강원정보문화산업진흥원과 강릉과학산업진흥원에서는 「아태 AI 특화지구(AHAP) 조성」을 위한 ‘강원 AI 헬스케어 글로벌 브릿지 조성사업’을 추진함에 있어 국내ㆍ외 현지 실증에 참여할 AI 헬스케어 기업을 아래와 같이 모집하오니 많은 참여 바랍니다. ☞ AI 헬스케어 중소ㆍ중견기업 단독 또는 의료기관ㆍ대학ㆍ유관기관과 구성한 컨소시엄(주관기관은 기업 또는 의료기관) - (소재지) 접수일 기준 강원특별자치도(춘천시, 강릉시) 내 본사ㆍ지사(지점)ㆍ연구소ㆍ공장이 소재하거나 연내까지(’26. 12.) 이전 확약(연구소의 경우 기업부설연구소 인정서 必) ☞ 아웃바운드 실증, 인바운드 공동실증 지원 - 과제 당 지원금 120,000천원(1차년도), 80,000천원(’2차년도) 지원 - 후속(연계) 지원 : 데이터ㆍ인프라, 심의ㆍ계약, 인증ㆍ규제, 판로ㆍ네트워킹 등 지원 자세한 지원내용 공고문 참조",
+      "target": "중소기업",
+      "applyMethod": "이메일 접수\r\n- 춘천 : 강원정보문화산업진흥원 (ysh@gica.or.kr)\r\n- 강릉 : 강릉과학산업진흥원 (yujin@gsipa.or.kr)\r\n※ 신청서에 지원 분야(인바운드, 아웃바운드)를 표기하고 해당 권역 접수처로 제출",
+      "contact": "강원정보문화산업진흥원 033-245-6121, ysh@gica.or.kr / 강릉과학산업진흥원 033-650-3316, yujin@gsipa.or.kr",
+      "applyUrl": "",
+      "org": "강원특별자치도",
+      "field": "기술",
+      "regionCode": "gangwon",
+      "regionName": "강원특별자치도",
+      "startAt": "2026-11-04",
+      "endAt": "2026-11-18",
+      "deadlineNote": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127721",
+      "firstSeen": "2026-11-06"
+    },
+    {
       "id": "PBLN_000000000127337",
       "title": "[충북] 2026년 이탈리아 볼로냐 코스모프로프 참여기업 모집 공고",
       "summary": "충청북도와 충북기업진흥원은 도내 중소기업의 新 시장 개척 및 글로벌 경쟁력 강화를 위해 다음과 같이 국제화장품 박람회 참가기업을 모집(도비100%)하오니 도내 화장품 기업의 많은 신청 바랍니다. ☞ 도내 화장품 제조업 또는 화장품책임판매업 등록한 중소기업 - 전시품목 : 모발, 뷰티살롱/SPA 관련제품, 포장용기, 네일아트, 향수, 화장품 ☞ 기본 부스 임차료 및 장치비 60% 등 지원 ※ 자세한 지원내용 공고문 참조",
@@ -19368,6 +19458,24 @@
       "deadlineNote": "",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127337",
       "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "PBLN_000000000127706",
+      "title": "2027년 일본 도쿄 뷰티월드 재팬 전시회 (beautyworld Japan Tokyo 2027) 한국관 참가기업 모집 공고",
+      "summary": "KOTRA와 사단법인 국제뷰티산업교역협회는 2027년 5월 17일 ~ 5월 19일 (3일간) 일본 도쿄에서 개최되는 ‘2027 일본 도쿄 뷰티월드 재팬 전시회(beautyworld Japan Tokyo)’의 한국관 참가기업을 아래와 같이 모집하오니 관심 기업들의 많은 신청 바랍니다. ☞ 2027 일본 도쿄 뷰티월드 재팬 전시회에 참가를 원하는 기업 - 전시품목 : 스킨케어, 코스메틱, 화장품, 마스크팩, 핸드크림, 향수, 바디용품, 네일, 헤어케어, 속눈썹, OEM/ODM, 패키징 등 뷰티 종합 품목 ☞ 부스임차료와 장치비의 70% 이내 국고지원 예정, 한국관 디렉토리 제작비, 운송비 1CBM 편도 100%, 행정ㆍ마케팅ㆍ홍보 지원, 전시회 현장 지원",
+      "target": "중소기업",
+      "applyMethod": "아래 3가지 절차를 모두 완료해야 최종 신청 완료로 간주\r\n① 온라인 신청(무역투자24(www.kotra.or.kr) 또는 글로벌전시플랫폼(www.gep.or.kr))\r\n② 신청서류 이메일 제출(국제뷰티산업교역협회 ibita5@ibita.or.kr)\r\n③ 참가 신청금 납부",
+      "contact": "(전시회 관련 문의) 국제뷰티산업교역협회 02-6268-2606,  ibita5@ibita.or.kr (GEP 신청 오류 문의) KOTRA 해외전시팀 02-3460-7285 (KOTRA 무역투자 24사이트 회원가입ㆍ로그인 오류 문의) KOTRA 고객전략팀 1600-7119",
+      "applyUrl": "https://kotra.or.kr/subList/20000020753/subhome/bizAply/selectBizMntInfoDetail.do?&dtlBizMntNo=26EX043&cpbizYn=N",
+      "org": "산업통상부",
+      "field": "수출",
+      "regionCode": "nationwide",
+      "regionName": "전국",
+      "startAt": "2026-11-05",
+      "endAt": "2026-11-19",
+      "deadlineNote": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127706",
+      "firstSeen": "2026-11-06"
     },
     {
       "id": "PBLN_000000000124635",
@@ -19479,7 +19587,7 @@
     },
     {
       "id": "PBLN_000000000127618",
-      "title": "2026년 서울시 청년 쿡 푸드테크 센터 참여 스타트업 모집 공고",
+      "title": "2027년 서울시 청년 쿡 푸드테크 센터 참여 스타트업 모집 공고",
       "summary": "서울시 청년 쿡 푸드테크 센터는 청년 식품제조ㆍ푸드테크 스타트업 창업 활성화를 위한 성장 기반 마련을 위해 수요자 중심 맞춤형 지원사업에 참여할 팀을 모집하오니 많은 신청 바랍니다. ☞ 푸드테크 기반 제품 및 서비스 개발 분야 유망 청년 창업자 - 공고일 기준 19~39세 대표자 - 제품ㆍ서비스를 보유한 창업기업 중 스케일업(고도화) 필요 기업 - 서울 사업소재지를 둔 기업 또는 서울로 본점, 지점, 연구소 등 주소지 이전을 계획중인 기업 (협약 이후 2개월 내 이전 필수 / 선정 시 센터 내 주소지 이전 지원 가능) ※ 모집 유형 : 외식자동화, 신식품 개발, 푸드 플랫폼 서비스, 식품제조 기술혁신 ☞ 인큐베이팅 프로그램(초기사업화자금, 멘토링, 연구개발 등 지원), 공간(오픈라운지, 오픈키친, 및 회의실 등) 지원 ※ 자세한 지원내용 공고문 참조",
       "target": "창업벤처",
       "applyMethod": "온라인 접수 (구글폼)",
@@ -19497,7 +19605,7 @@
     },
     {
       "id": "PBLN_000000000127617",
-      "title": "2026년 서울시 청년 쿡 비즈니스 센터 참여 스타트업 모집 공고",
+      "title": "2027년 서울시 청년 쿡 비즈니스 센터 참여 스타트업 모집 공고",
       "summary": "서울시 청년 쿡 비즈니스 센터는 청년 식품제조 스타트업 창업 활성화를 위한 성장 기반 마련을 위해 수요자 중심 맞춤형 지원사업에 참여할 팀을 모집하오니 많은 신청 바랍니다. ☞ 식품제조업 분야 청년 (예비)창업자 ※ 공고일 기준 만19~39세(대표자) ※ 입주기업 : 서울 외 지역 거주 청년 지원 가능(입주 후 센터주소로 사업자등록 혹은 지점 설립 필수) ※ 입주기업/비입주기업 신청조건 상이(공고문 참조) ☞ 센터 공간 및 시설 (기업당 1석), 인큐베이팅 프로그램(사업화 자금(지원금 최대 100만원), 보육 프로그램) 지원 ※ 자세한 지원내용 공고문 참조",
       "target": "창업벤처",
       "applyMethod": "온라인 접수 (구글폼)",
@@ -20322,6 +20430,24 @@
       "deadlineNote": "",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127477",
       "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "PBLN_000000000127694",
+      "title": "2027년 중소기업 계약학과 15기 신입생 모집 공고(단국대학교 경영대학원 글로벌e-SCM학과)",
+      "summary": "본 과정은 우리나라 산업의 근간인 중소ㆍ중견기업을 지원하기 위해 중소벤처기업부가 주관하는 계약학과 석사과정입니다. 글로벌e-SCM학과는 중소ㆍ중견기업 재직자들에게 e-Marketing, SCM, 무역, 물류에 대한 실무 및 이론을 체계적으로 교육하여 국제경쟁력을 높일 수 있는 전문가로 육성하는데 그 목적이 있습니다. ☞ 중소ㆍ중견기업에 6개월 이상 재직한 임직원 - 2026. 11. 05.(목) ~ 신입학 모집 기간 중 채용된 중소ㆍ중견기업의 임직원 ※ 자세한 지원대상 공고문 참조 ☞ 재교육형, 재교육 동시채용형 지원 - 재교육형 : 정부지원금 40 ~ 65% 지원 - 제교육 동시채용형 : 정부지원 100% 지원 ※ 자세한 지원내용 공고문 참조",
+      "target": "중소기업",
+      "applyMethod": "① 온라인 접수 후 ② 제출서류 우편 또는 방문 접수\r\n- 접수처 : (우)16890 경기도 용인시 수지구 죽전로 152 단국대학교 경영대학원 글로벌e-SCM학과(상경관 413호)\r\n- 온라인 : 진학사\r\n※ 자세한 지원방법 공고문 참조",
+      "contact": "단국대학교 경영대학원 글로벌e-SCM학과 사무실 031-8005-2225, 2226, hyunkooheo@dankook.ac.kr",
+      "applyUrl": "https://enter.jinhakapply.com/Notice/1195140/A",
+      "org": "중소벤처기업부",
+      "field": "인력",
+      "regionCode": "nationwide",
+      "regionName": "전국",
+      "startAt": "2026-11-05",
+      "endAt": "2026-12-03",
+      "deadlineNote": "",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127694",
+      "firstSeen": "2026-11-06"
     },
     {
       "id": "PBLN_000000000123494",
@@ -28692,6 +28818,24 @@
       "deadlineNote": "예산 소진 시",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127684",
       "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "PBLN_000000000127696",
+      "title": "2026년 중소ㆍ중견기업 재생에너지 사용 컨설팅 참여기업 상시 모집 공고",
+      "summary": "전문컨설팅 기관이 기업을 방문하여 재생에너지 사용여건 진단, 실무교육, 이행전략 수립 등 재생에너지 사용에 필요한 제반사항을 종합 지원하는 컨설팅에 참여할 기업을 모집합니다. ☞ 중소기업기본법 제2조에 따른 중소기업 및 중견기업법 제2조제1항에 따른 중견기업 ☞ 현장진단 컨설팅과 이행전략 컨설팅 2단계로 구분하여 지원 - 현장진단 컨설팅 : 재생에너지 사용여건 진단, 전력사용량, 사용패턴, 재생에너지 설치잠재량 등 기초정보 파악 등 지원 - 이행전략 컨설팅 : 맞춤형 재생에너지 활용전략 제시, RE100 장기 이행 로드맵 수립 등 지원",
+      "target": "중소기업",
+      "applyMethod": "온라인, 이메일 접수\r\n- 온라인 : 기업 재생에너지 지원센터\r\n- 이메일 : greenenergy@korcham.net",
+      "contact": "대한상공회의소 그린에너지지원센터(기업 재생에너지 지원센터) 02-6050-7134, greenenergy@korcham.net",
+      "applyUrl": "https://recenter.energy.or.kr/",
+      "org": "기후에너지환경부",
+      "field": "경영",
+      "regionCode": "nationwide",
+      "regionName": "전국",
+      "startAt": null,
+      "endAt": null,
+      "deadlineNote": "상시 접수",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127696",
+      "firstSeen": "2026-11-06"
     }
   ]
 }
